@@ -69,6 +69,7 @@ a {
     flex-wrap: wrap;
     width: auto;
     max-width: 600px;
+    margin-bottom: 8px;
 }
 
 .signinButton {
